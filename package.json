@@ -1,9 +1,9 @@
 {
   "name": "test-bar",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "test repo for gitfuse",
   "private": true,
   "gitfuseDependencies": {
-    "test-baz": "~0.3.0"
+    "test-baz": "~0.4.0"
   }
 }
